@@ -1,3 +1,7 @@
+<img width="895" height="889" alt="image" src="https://github.com/user-attachments/assets/09916755-e2b8-42a5-8790-95b576f20ddc" />
+
+
+
 # Linux Deleted File Recovery
 
 > **Interview Scenario:** You accidentally delete an important file from
