@@ -1,5 +1,5 @@
 # CI/CD Pipeline --- Complete End-to-End Explanation
-#Detail Explanation Video - https://www.instagram.com/manishcareertalks/
+# Detail Explanation Video - https://www.instagram.com/manishcareertalks/
 ## Overview
 
 The attached diagram shows a modern **CI/CD pipeline** for a
