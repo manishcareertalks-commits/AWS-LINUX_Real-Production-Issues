@@ -1,5 +1,7 @@
 **AWS VPC Production Environment --- Services & Architecture Guide**
 
+<img width="1023" height="902" alt="image" src="https://github.com/user-attachments/assets/af60b61b-0aa1-43fd-89eb-4dc0e8fa2040" />
+
 **1. Executive Overview**
 
 A production AWS network should be designed around four principles:
