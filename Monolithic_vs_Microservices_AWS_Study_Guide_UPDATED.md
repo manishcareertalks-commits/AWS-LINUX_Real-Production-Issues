@@ -2,19 +2,9 @@
 ## Detail Explanation Video - https://www.instagram.com/manishcareertalks/
 ## Visual Overview
 
-Below are the three architecture diagrams used throughout this study guide.
+###  3-Tier Architecture diagram
 
-### 1. Shopping Website (Example Application)
-
-![Shopping Website](shopping_website.png)
-
-### 2. Monolithic Architecture
-
-![Monolithic Architecture](monolithic_architecture.png)
-
-### 3. Microservices Architecture
-
-![Microservices Architecture](microservices_architecture.png)
+<img width="1018" height="868" alt="image" src="https://github.com/user-attachments/assets/c9e34d3d-85a8-4967-94a0-e5e732018135" />
 
 ---
 
