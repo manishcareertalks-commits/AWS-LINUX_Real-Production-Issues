@@ -1,5 +1,7 @@
 # AWS S3 Production Incident Runbook: Accidental File Deletion & Recovery
 
+<img width="934" height="910" alt="image" src="https://github.com/user-attachments/assets/194ef914-81a6-43c5-b558-2792997d1810" />
+
 ## 1. Incident Overview
 
 ### Scenario
