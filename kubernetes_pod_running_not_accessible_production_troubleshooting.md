@@ -1,6 +1,9 @@
 # Kubernetes Pod is Running but Application is Not Accessible
 ## Production Troubleshooting Guide
 
+<img width="1004" height="912" alt="image" src="https://github.com/user-attachments/assets/fbac7d6d-e6aa-4a1c-a3be-03b68ce89a06" />
+
+
 > **Core production lesson:**  
 > A Kubernetes Pod being `Running` does **not** mean that the application is reachable.
 >
