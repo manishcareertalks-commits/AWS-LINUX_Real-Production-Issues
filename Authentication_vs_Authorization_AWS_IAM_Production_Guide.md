@@ -1,6 +1,8 @@
 # Authentication vs Authorization in AWS IAM
 ## Production-Focused Guide for Cloud & DevOps Engineers
 
+<img width="965" height="881" alt="image" src="https://github.com/user-attachments/assets/c717da85-e990-4d16-aba5-ab27c65709de" />
+
 ---
 
 # Table of Contents
