@@ -1,6 +1,6 @@
 # Kubernetes Pod Stuck in Pending — Production Troubleshooting Guide
 
-<img width="886" height="852" alt="image" src="https://github.com/user-attachments/assets/c1e01ee8-e7db-46f1-87d7-8735fadd4f59" />
+<img width="928" height="383" alt="image" src="https://github.com/user-attachments/assets/caa623b0-cf80-41c4-b8bf-83a901d9999e" />
 
 ## 1. Introduction
 
