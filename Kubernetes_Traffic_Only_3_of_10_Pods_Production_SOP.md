@@ -1,4 +1,5 @@
 # SOP: Kubernetes Traffic Reaching Only 3 Out of 10 Pods
+<img width="1125" height="698" alt="image" src="https://github.com/user-attachments/assets/de857dcf-786e-4950-a6c3-38ed698c11b6" />
 
 ## 1. Purpose
 
