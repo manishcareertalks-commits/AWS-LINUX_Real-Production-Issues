@@ -1,5 +1,7 @@
 # Kubernetes Pod Stuck in Pending — Production Troubleshooting Guide
 
+<img width="886" height="852" alt="image" src="https://github.com/user-attachments/assets/c1e01ee8-e7db-46f1-87d7-8735fadd4f59" />
+
 ## 1. Introduction
 
 When a Kubernetes Pod remains in the `Pending` state after a production deployment, the first question should be:
