@@ -1,4 +1,5 @@
 # 3-Tier Architecture on AWS --- Production-Oriented Study Notes
+<img width="955" height="897" alt="image" src="https://github.com/user-attachments/assets/b37e8e1b-5abc-4432-8ce5-03fe822e3be1" />
 
 ## 1. Overview
 
