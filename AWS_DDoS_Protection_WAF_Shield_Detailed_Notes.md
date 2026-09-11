@@ -1,5 +1,7 @@
 # AWS DDoS Protection Using AWS WAF, Shield, Route 53, ALB and Auto Scaling
 
+<img width="926" height="910" alt="image" src="https://github.com/user-attachments/assets/25bceaa3-a85b-4556-84da-b4d3b9c8c870" />
+
 ## 1. Interview Scenario
 
 ### Question
