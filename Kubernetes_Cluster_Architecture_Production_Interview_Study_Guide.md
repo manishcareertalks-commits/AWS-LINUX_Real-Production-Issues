@@ -1,12 +1,7 @@
 # Kubernetes Cluster Architecture — Production & Interview Study Guide
 
-## 1. Interview Question
+<img width="1157" height="882" alt="image" src="https://github.com/user-attachments/assets/44adc7c2-5a48-4e17-816d-a3802cbf2af6" />
 
-### Interviewer Question
-
-> **“Can you explain the architecture of a Kubernetes cluster?”**
-
-### Strong 30–60 Second Interview Answer
 
 “Kubernetes has two major parts: the **Control Plane and Worker Nodes**.
 
