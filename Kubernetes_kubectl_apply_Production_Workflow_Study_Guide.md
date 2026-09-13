@@ -1,11 +1,10 @@
 # Kubernetes `kubectl apply` Workflow --- Production & Interview Study Guide
 
-## 1. Interview Question
+<img width="965" height="837" alt="image" src="https://github.com/user-attachments/assets/1121c294-c421-4a66-b497-8c83dbc62fb9" />
 
 **Question:**
 
-> What happens in the backend when you execute
-> `kubectl apply -f deployment.yaml`?
+> What happens in the backend when you execute  `kubectl apply -f deployment.yaml`?
 
 A strong interview answer should explain the request lifecycle from the
 developer/DevOps engineer's terminal through the Kubernetes Control
