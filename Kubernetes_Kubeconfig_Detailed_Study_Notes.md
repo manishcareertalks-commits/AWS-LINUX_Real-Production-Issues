@@ -1,4 +1,5 @@
 # Kubernetes Kubeconfig — Detailed Study Notes
+<img width="1067" height="849" alt="image" src="https://github.com/user-attachments/assets/a6b2333d-6ca1-4927-a2ea-04a4c99ea5d6" />
 
 ## 1. Overview
 
