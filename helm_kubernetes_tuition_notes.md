@@ -1,5 +1,7 @@
 # Helm — Kubernetes Package Manager
 
+<img width="970" height="885" alt="image" src="https://github.com/user-attachments/assets/945191c4-04dd-4107-91c4-6e6ec60abfba" />
+
 ## 1. What is Helm?
 
 **Helm is a package manager for Kubernetes.**
