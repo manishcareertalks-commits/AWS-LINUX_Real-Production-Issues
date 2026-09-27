@@ -1,5 +1,7 @@
 # Reduce Docker Image Size & Build a Production-Optimized Image
 
+<img width="947" height="875" alt="image" src="https://github.com/user-attachments/assets/bd199f21-483a-48f5-978a-3779def8f27a" />
+
 ## Interview Question
 
 **Q. HOW will you REDUCE Docker image size & build PRODUCTION Optimized image?**
