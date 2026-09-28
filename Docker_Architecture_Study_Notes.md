@@ -1,5 +1,8 @@
 # Docker Architecture --- Complete Study Notes
 
+<img width="979" height="858" alt="image" src="https://github.com/user-attachments/assets/a81a2091-b29a-401f-a5fb-e5df0f7fd628" />
+
+
 ## 1. What is Docker Architecture?
 
 Docker uses a **client-server architecture** to build, distribute, and
