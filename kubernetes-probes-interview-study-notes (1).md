@@ -1,5 +1,8 @@
 # Kubernetes Probes — Interview & Study Notes
 
+<img width="605" height="815" alt="image" src="https://github.com/user-attachments/assets/f161aa91-d87c-41ef-b483-312b47c02f20" />
+
+
 ## 1. What are Kubernetes Probes?
 
 Kubernetes **probes** are health checks used by the kubelet to determine the state of an application running inside a Pod.
