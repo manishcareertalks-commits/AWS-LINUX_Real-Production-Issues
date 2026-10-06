@@ -1,5 +1,8 @@
 # Production-Ready Dockerfile — Top 10 Instructions
 
+<img width="549" height="833" alt="image" src="https://github.com/user-attachments/assets/46bad1c8-ebe9-4a48-bf0a-0500295c3aac" />
+
+
 ## Quick Study Guide
 
 A production-ready Dockerfile should be **small, secure, predictable, and easy to maintain**.
