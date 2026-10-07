@@ -1,5 +1,8 @@
 # Kubernetes Services --- Interview Notes
 
+<img width="729" height="889" alt="image" src="https://github.com/user-attachments/assets/a673fcf0-402f-44d4-b9b6-76ab8c89b718" />
+
+
 ## 1. Why do we need a Kubernetes Service?
 
 Pods are **ephemeral**. Their IP addresses can change when Pods are
