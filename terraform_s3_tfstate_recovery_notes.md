@@ -1,5 +1,7 @@
 # Terraform State File Deleted from S3 — Production Recovery Runbook
 
+<img width="948" height="908" alt="image" src="https://github.com/user-attachments/assets/58a16b92-2953-485e-b801-08e0995dd46c" />
+
 **Audience:** Senior DevOps / Cloud Engineers  
 **Scenario:** The Terraform remote state object stored in an S3 bucket was accidentally deleted. The AWS resources still exist, but Terraform may have lost its record of them.
 
