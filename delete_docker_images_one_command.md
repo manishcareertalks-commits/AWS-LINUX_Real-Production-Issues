@@ -1,5 +1,8 @@
 # Delete Docker Images in One Command
 
+<img width="950" height="817" alt="image" src="https://github.com/user-attachments/assets/b034fb64-f764-4059-9ae8-8262ad754545" />
+
+
 ## Command
 
 ```bash
