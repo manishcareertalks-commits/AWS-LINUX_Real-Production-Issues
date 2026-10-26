@@ -4,10 +4,6 @@
 <img width="987" height="897" alt="image" src="https://github.com/user-attachments/assets/2e480f1b-5464-4727-9984-9d2420ff2b05" />
 
 
-<img width="947" height="863" alt="image" src="https://github.com/user-attachments/assets/8df81eb9-3d51-4aec-af06-91b070cfd82e" />
-
-
-
 ## 1. What problem does Ingress solve?
 
 Imagine an e-commerce application running on Amazon EKS with three components:
@@ -95,41 +91,8 @@ This example assumes the backend applications can handle the paths they receive.
 
 Save as `ingress.yaml`.
 
-```yaml
-apiVersion: networking.k8s.io/v1
-kind: Ingress
-metadata:
-  name: ecommerce-ingress
-spec:
-  ingressClassName: nginx
-  rules:
-    - host: shop.example.com
-      http:
-        paths:
-          - path: /
-            pathType: Prefix
-            backend:
-              service:
-                name: frontend-service
-                port:
-                  number: 80
+<img width="947" height="863" alt="image" src="https://github.com/user-attachments/assets/ca258a8b-7caf-4b1a-86fe-fc9eab80eaa2" />
 
-          - path: /api/products
-            pathType: Prefix
-            backend:
-              service:
-                name: product-service
-                port:
-                  number: 80
-
-          - path: /api/orders
-            pathType: Prefix
-            backend:
-              service:
-                name: order-service
-                port:
-                  number: 80
-```
 
 ### Important fields
 
