@@ -1,5 +1,13 @@
 # Kubernetes Ingress and Ingress Controller — Study Notes
 
+
+<img width="987" height="897" alt="image" src="https://github.com/user-attachments/assets/2e480f1b-5464-4727-9984-9d2420ff2b05" />
+
+
+<img width="947" height="863" alt="image" src="https://github.com/user-attachments/assets/8df81eb9-3d51-4aec-af06-91b070cfd82e" />
+
+
+
 ## 1. What problem does Ingress solve?
 
 Imagine an e-commerce application running on Amazon EKS with three components:
