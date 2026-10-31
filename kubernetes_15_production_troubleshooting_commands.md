@@ -1,7 +1,10 @@
 # Top 15 Kubernetes Troubleshooting Commands for Production
 
 **Practical DevOps / SRE notes**  
-Examples use namespace `prod`, application `webapp`, and placeholder Pod/node names. Replace these with your environment's values. Run read-only diagnostics first and follow production access controls.
+Examples use below has - namespace `prod`, application `webapp`, and placeholder Pod/node names. Replace these with your environment's values. Run read-only diagnostics first and follow production access controls.
+
+<img width="988" height="913" alt="image" src="https://github.com/user-attachments/assets/7f21e580-4387-424d-a716-cd5bb2aeb675" />
+
 
 ## Quick reference
 
