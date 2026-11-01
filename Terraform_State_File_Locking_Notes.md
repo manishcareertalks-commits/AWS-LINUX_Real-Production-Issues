@@ -1,5 +1,11 @@
 # Terraform State File Locking — Production Notes
 
+<img width="1862" height="418" alt="image" src="https://github.com/user-attachments/assets/376693b4-0607-4c13-b210-c07ec16b7959" />
+
+<img width="1003" height="902" alt="image" src="https://github.com/user-attachments/assets/8aa5bc6c-efbf-43eb-aecd-555c28b4cc3f" />
+
+
+
 ## 1. What is Terraform state locking?
 
 Terraform state (`terraform.tfstate`) records the infrastructure resources Terraform manages. **State locking** prevents multiple Terraform operations from concurrently changing the **same state**, helping avoid conflicting updates and state corruption. Locking is supported by certain backends, including the Amazon S3 backend.
