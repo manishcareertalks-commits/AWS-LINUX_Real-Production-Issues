@@ -12,6 +12,14 @@ An application runs on **Amazon EKS** with three microservices:
 
 **Requirement:** Expose all three services publicly using **one domain and one external load balancer** rather than deploying a separate public load balancer for each application.
 
+## Architectural Diagram with Ingress Controller -
+
+<img width="623" height="627" alt="image" src="https://github.com/user-attachments/assets/bc46496d-2e41-451b-bf42-c99a7d0c6b5a" />
+
+##  Architectural Diagram without  Ingress Controller -
+
+<img width="636" height="637" alt="image" src="https://github.com/user-attachments/assets/a2fef68c-d2ea-402f-a818-0611286c3bb1" />
+
 ## 2. Solution and Traffic Flow
 
 Install an **NGINX Ingress Controller** in EKS, expose that controller using one AWS load balancer, and define an **Ingress resource** with host- and path-based routing rules.
@@ -28,44 +36,9 @@ Internet Users → Route 53 (DNS) → AWS Load Balancer
 
 ## 3. Example Ingress Manifest (`app-ingress.yaml`)
 
-```yaml
-apiVersion: networking.k8s.io/v1
-kind: Ingress
-metadata:
-  name: app-ingress
-  namespace: production
-spec:
-  ingressClassName: nginx
-  tls:
-    - hosts:
-        - example.com
-      secretName: example-tls
-  rules:
-    - host: example.com
-      http:
-        paths:
-          - path: /users
-            pathType: Prefix
-            backend:
-              service:
-                name: user-service
-                port:
-                  number: 8080
-          - path: /payments
-            pathType: Prefix
-            backend:
-              service:
-                name: payment-service
-                port:
-                  number: 9090
-          - path: /
-            pathType: Prefix
-            backend:
-              service:
-                name: frontend-service
-                port:
-                  number: 3000
-```
+<img width="578" height="633" alt="image" src="https://github.com/user-attachments/assets/604f7282-3eea-4e57-b3fd-b1ee0b81c676" />
+
+   
 
 **Manifest explanation:**
 
