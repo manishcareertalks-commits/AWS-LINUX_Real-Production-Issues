@@ -2,6 +2,12 @@
 
 **Interview question:** What is the difference between LimitRange and ResourceQuota, and how do we use them in production?
 
+<img width="638" height="631" alt="image" src="https://github.com/user-attachments/assets/7e7e6e53-78b8-4d2a-b186-ea538df66f7c" />
+
+
+<img width="589" height="620" alt="image" src="https://github.com/user-attachments/assets/415fc120-bccf-4897-ab22-e565f2aca175" />
+
+
 ## 1. Production scenario
 
 Imagine Development, Testing, and Production teams sharing an Amazon EKS cluster, each with its own Kubernetes namespace. We need to stop individual workloads from specifying unreasonable CPU/memory resources **and** stop any one namespace from consuming the team's entire resource budget.
