@@ -16,7 +16,7 @@ An application runs on **Amazon EKS** with three microservices:
 
 <img width="623" height="627" alt="image" src="https://github.com/user-attachments/assets/bc46496d-2e41-451b-bf42-c99a7d0c6b5a" />
 
-##  Architectural Diagram without  Ingress Controller -
+##  Architectural Diagram without  Ingress Controller -  (Note :This is generic diagram .  Below diagram should also have route53,WAF and then 3 load balancers)
 
 <img width="636" height="637" alt="image" src="https://github.com/user-attachments/assets/a2fef68c-d2ea-402f-a818-0611286c3bb1" />
 
