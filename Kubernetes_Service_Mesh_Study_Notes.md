@@ -1,8 +1,15 @@
-# Kubernetes Service Mesh (Istio) — Part 1
+# Kubernetes Service Mesh (Istio) 
 ## Production interview study notes
 
+# Instagram link -
+https://www.instagram.com/manishcareertalks/?hl=en
+# Youtube Link - 
+https://www.youtube.com/@ManishCareerTalks
+
 ### 1. Interview scenario
-**You have 50 microservices running in a production Kubernetes cluster. How would you secure, monitor and manage communication between them without modifying application code?**
+**You have 4 microservices running in a production Kubernetes cluster. How would you secure, monitor and manage communication between them without modifying application code?**
+
+<img width="672" height="672" alt="image" src="https://github.com/user-attachments/assets/bc3114d6-2658-4ab4-9fe8-e92a76a97030" />
 
 Use a service mesh such as Istio to centrally manage networking policies. Consider an e-commerce application on AWS EKS with four representative services: Order, Payment, Inventory and Notification.
 
