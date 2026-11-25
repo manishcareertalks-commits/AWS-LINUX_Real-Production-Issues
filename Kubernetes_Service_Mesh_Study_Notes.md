@@ -9,7 +9,8 @@ https://www.youtube.com/@ManishCareerTalks
 ### 1. Interview scenario
 **You have 4 microservices running in a production Kubernetes cluster. How would you secure, monitor and manage communication between them without modifying application code?**
 
-<img width="672" height="672" alt="image" src="https://github.com/user-attachments/assets/bc3114d6-2658-4ab4-9fe8-e92a76a97030" />
+<img width="679" height="674" alt="image" src="https://github.com/user-attachments/assets/23794fcd-23e0-4c3d-8360-63087d3f64bc" />
+
 
 Use a service mesh such as Istio to centrally manage networking policies. Consider an e-commerce application on AWS EKS with four representative services: Order, Payment, Inventory and Notification.
 
@@ -31,6 +32,9 @@ A dedicated infrastructure layer for service-to-service communication. It provid
 ```
 
 ### 3. Four production benefits
+
+<img width="674" height="668" alt="image" src="https://github.com/user-attachments/assets/da3e5232-f663-4e19-b20c-40c5d25da024" />
+
 
 #### Security — mTLS and access control
 Mutual TLS encrypts traffic and authenticates both workloads. Authorization policies restrict which identities may access a workload.
